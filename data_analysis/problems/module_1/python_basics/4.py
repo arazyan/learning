@@ -1,0 +1,2 @@
+first = salaries[0]
+
