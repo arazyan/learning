@@ -1,2 +1,0 @@
-first = salaries[0]
-
